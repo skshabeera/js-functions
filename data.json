@@ -1,0 +1,34 @@
+{
+    "user": [
+        {
+            "Username": "shabeera",
+            "Password": "Shabe@12",
+            "Profile": {
+                "description": "i am shabeera",
+                "d_o_b": "20/11/1999",
+                "Gender": "female",
+                "Hobbies": "reading"
+            }
+        },
+        {
+            "Username": "anusha",
+            "Password": "Anush@12",
+            "Profile": {
+                "description": "i am anusha",
+                "d_o_b": "20/11/1990",
+                "Gender": "female",
+                "Hobbies": "dancing"
+            }
+        },
+        {
+            "Username": "shabeera",
+            "Password": "Shabee@12",
+            "Profile": {
+                "description": "i am shabeera",
+                "d_o_b": "20/11/1990",
+                "Gender": "female",
+                "Hobbies": "reading"
+            }
+        }
+    ]
+}
